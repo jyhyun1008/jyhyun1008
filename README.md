@@ -3,6 +3,8 @@
 마크다운 쓰려고 깃헙 쓰는 인간
 
 주로 《논어》 이야기를 하고, 안회와 재여를 좋아합니다.
+- [행단 - 개인 홈페이지](http://hyun1008.creatorlink.net/)
+- [여지불인 연재 페이지 KR](http://hyun1008.dothome.co.kr/yuzhiburen/)
 
 # gist 모음
 
