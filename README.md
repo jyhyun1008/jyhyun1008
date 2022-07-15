@@ -10,6 +10,7 @@
 
 ## 여지불인 스토리
 
+- [인덱스 페이지 KR](https://gist.github.com/jyhyun1008/8f9c396c631c50210b9a7a85d0befe9e)
 - [메인 스토리 KR](https://gist.github.com/jyhyun1008/e1a956d01d5b263594b108ca3885361f)
 - [사이드 스토리 KR](https://gist.github.com/jyhyun1008/c970c3d76f2ddaee832afaad7667dd23)
 
