@@ -19,7 +19,7 @@
 
 - [템플릿](https://gist.github.com/jyhyun1008/716852a6ff391f9c26bd751cded345ef)
 
-### 공문십철
+### 공자 + 공문십철
 - [공자](https://gist.github.com/jyhyun1008/93df4c9e04bee197518a81f72c560c7a)
 - [안회](https://gist.github.com/jyhyun1008/fa8e1e922fb5d9ca49ed4386f9c98c32)
 - [민손](https://gist.github.com/jyhyun1008/9b07cb1b6c1f5a3e358d926620c7d104)
@@ -32,4 +32,16 @@
 - [언언](https://gist.github.com/jyhyun1008/e4745eaf426931b4480992e9f6b5e891)
 - [복상](https://gist.github.com/jyhyun1008/a9d1b4d515ec753477641043b97ef76a)
 
-### 기타 제자
+### 기타 제자 (《사기》에 정리된 순서)
+- [전손사](https://gist.github.com/jyhyun1008/5e025d1cda9438d326adf6c8e65087a6)
+- [증삼](https://gist.github.com/jyhyun1008/cfa1c897949a2c92f940c0e9f9b875b0)
+- [담대멸명](https://gist.github.com/jyhyun1008/9c7e0782e3df71cc694a2b731c6f5dc2)
+- [원헌](https://gist.github.com/jyhyun1008/c2dd5ee6bccae28bed16594a910df8ee)
+- [증점](https://gist.github.com/jyhyun1008/224ee57687e567438e98a03059463330)
+- [안무유](https://gist.github.com/jyhyun1008/4d151bbe76ccb45029d30969d7c24aea)
+- [고시](https://gist.github.com/jyhyun1008/d4a3bef6f4aaf267e158c40a25b9f95b)
+- [번수](https://gist.github.com/jyhyun1008/73a3296c0aa11149803c5f92d9903068)
+- [유약](https://gist.github.com/jyhyun1008/ec8a04cf7d2a6d651d534d9eede1c1f0)
+- [공서적](https://gist.github.com/jyhyun1008/ce2a3d4ef5a2d390eb74dcaccf5a6fa7)
+- [진강](https://gist.github.com/jyhyun1008/aa3aa9b88b3a97b271aba4fe532f14bf)
+- [공리](https://gist.github.com/jyhyun1008/e47f0f36399ac0378a9fed1eff528274)
