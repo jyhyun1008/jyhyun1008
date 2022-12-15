@@ -1,10 +1,35 @@
+<center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
+
+
 # 짧은 소개
 
-마크다운 쓰려고 깃헙 쓰는 인간
+영어의 권력에 저항해요
 
 주로 《논어》 이야기를 하고, 안회와 재여를 좋아합니다.
 - [행단 - 개인 홈페이지](http://hyun1008.creatorlink.net/)
 - [여지불인 연재 페이지 KR](http://hyun1008.dothome.co.kr/yuzhiburen/)
+
+## 스킬
+
+![](https://img.shields.io/badge/:-python-blue?style=for-the-badge&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/:-FORTRAN-blue?style=for-the-badge&logo=fortran&logoColor=white)
+![](https://img.shields.io/badge/:-IDL-blue?style=for-the-badge&logo=instapaper&logoColor=white)
+![](https://img.shields.io/badge/:-LaTeX-blue?style=for-the-badge&logo=latex&logoColor=white)
+
+![](https://img.shields.io/badge/:-HTML-red?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/:-CSS-red?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/:-markdown-red?style=for-the-badge&logo=markdown&logoColor=white)
+  
+![](https://img.shields.io/badge/:-JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/:-Node.JS-green?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/:-php-green?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/:-sql-green?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![](https://img.shields.io/badge/:-OnShape-yellow?style=for-the-badge&logo=OnStar&logoColor=white)
+![](https://img.shields.io/badge/:-FeatureScript-yellow?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
+![](https://img.shields.io/badge/:-Blender-yellow?style=for-the-badge&logo=blender&logoColor=white)
 
 # gist 모음
 
@@ -46,3 +71,7 @@
 - [공서적](https://gist.github.com/jyhyun1008/ce2a3d4ef5a2d390eb74dcaccf5a6fa7)
 - [진강](https://gist.github.com/jyhyun1008/aa3aa9b88b3a97b271aba4fe532f14bf)
 - [공리](https://gist.github.com/jyhyun1008/e47f0f36399ac0378a9fed1eff528274)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&customColorList=0)
+  
+  </center>
