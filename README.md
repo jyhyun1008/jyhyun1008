@@ -1,6 +1,5 @@
-<center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
 
 
 # 짧은 소개
@@ -30,6 +29,11 @@
 ![](https://img.shields.io/badge/:-OnShape-yellow?style=for-the-badge&logo=OnStar&logoColor=white)
 ![](https://img.shields.io/badge/:-FeatureScript-yellow?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
 ![](https://img.shields.io/badge/:-Blender-yellow?style=for-the-badge&logo=blender&logoColor=white)
+  
+## 스탯 
+  
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyhyun1008&count_private=true)
+
 
 # gist 모음
 
@@ -72,6 +76,6 @@
 - [진강](https://gist.github.com/jyhyun1008/aa3aa9b88b3a97b271aba4fe532f14bf)
 - [공리](https://gist.github.com/jyhyun1008/e47f0f36399ac0378a9fed1eff528274)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&customColorList=0)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0)
   
   </center>
