@@ -33,6 +33,7 @@
 ## 스탯 
   
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyhyun1008&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyhyun1008&layout=compact)](https://github.com/jyhyun1008/github-readme-stats)
 
 
 # gist 모음
