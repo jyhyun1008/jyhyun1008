@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
 
 
 # 짧은 소개
@@ -76,6 +76,6 @@
 - [진강](https://gist.github.com/jyhyun1008/aa3aa9b88b3a97b271aba4fe532f14bf)
 - [공리](https://gist.github.com/jyhyun1008/e47f0f36399ac0378a9fed1eff528274)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=17)
   
   </center>
