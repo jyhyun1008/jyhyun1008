@@ -8,7 +8,7 @@
 영어의 권력에 저항해요
 
 주로 《논어》 이야기를 하고, 안회와 재여를 좋아합니다.
-- [행단 - 개인 홈페이지](http://hyun1008.creatorlink.net/)
+- [관상감 - 개인 홈페이지](http://gwansangg.am/)
 - [여지불인 연재 페이지 KR](http://hyun1008.dothome.co.kr/yuzhiburen/)
 
 ## 스킬
