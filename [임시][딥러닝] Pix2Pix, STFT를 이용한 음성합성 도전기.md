@@ -720,7 +720,7 @@ write('test.wav', rate, result_ifft)
 
 결과물을 `.wav` 파일로 저장할 수 있습니다.
 
-!youtube[MYRuvjNkam4]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MYRuvjNkam4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 잡음이 굉장히 많이 끼어 있지만, 학습이 얼마 진행되지 않아 그렇다고 믿고 넘기려고 합니다.
 
