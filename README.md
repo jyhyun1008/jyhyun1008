@@ -13,9 +13,9 @@
 
 ### Web
 ![](https://img.shields.io/badge/:-HTML-red?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/:-CSS-red?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/:-JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/:-markdown-red?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/:-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/:-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/:-markdown-blue?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Environment & Frameworks
 ![](https://img.shields.io/badge/:-Node.JS-green?style=for-the-badge&logo=node.js&logoColor=white)
@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/:-Nuxt.JS-green?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 ### 3D Artworks
-![](https://img.shields.io/badge/:-OnShape-yellow?style=for-the-badge&logo=OnStar&logoColor=white)
+![](https://img.shields.io/badge/:-OnShape-green?style=for-the-badge&logo=OnStar&logoColor=white)
 ![](https://img.shields.io/badge/:-Blender-yellow?style=for-the-badge&logo=blender&logoColor=white)
   
 ## Stats
