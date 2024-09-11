@@ -1,5 +1,5 @@
 
-![header](https://for.stella.place/D1/3bc69f21-69c6-406c-9756-b38cd9ae5955.webp)
+![header](https://for.stella.place/D1/d6e07244-c644-482b-bef5-c5458edfeb2e.webp)
 
 # About Myself
 
