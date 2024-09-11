@@ -1,29 +1,44 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
 
+# About Myself
 
-# 짧은 소개
+> To test the limits and break through
 
-수정중입니다아
+* [Website](https://page.peacht.art)
+* [Blog](https://blog.daydream.ink/jyhyun1008)
+* [Fediverse](https://peacht.art/@hyun1008)
 
-## 스킬
+## Skills
+
+### Web
 ![](https://img.shields.io/badge/:-HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/:-CSS-red?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/:-markdown-red?style=for-the-badge&logo=markdown&logoColor=white)
-  
 ![](https://img.shields.io/badge/:-JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/:-Node.JS-green?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/:-markdown-red?style=for-the-badge&logo=markdown&logoColor=white)
 
+### Environment & Frameworks
+![](https://img.shields.io/badge/:-Node.JS-green?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/:-Vue.JS-green?style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/:-Nuxt.JS-green?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+### 3D Artworks
 ![](https://img.shields.io/badge/:-OnShape-yellow?style=for-the-badge&logo=OnStar&logoColor=white)
 ![](https://img.shields.io/badge/:-Blender-yellow?style=for-the-badge&logo=blender&logoColor=white)
   
-## 스탯 
+## Stats
   
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyhyun1008&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyhyun1008&layout=compact)](https://github.com/jyhyun1008/github-readme-stats)
 
-# 여담
+# Main Repositories
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=17)
-  
-  </center>
+* [Pi-chan](https://github.com/jyhyun1008/pichan): A multifunctional ChatGPT based chatbot.
+* [Chocospread](https://github.com/jyhyun1008/chocospread): A wiki engine with Google Spreadsheet and Github Pages.
+* [VMC Dual Cam Mixer](https://github.com/jyhyun1008/vmcdualcammixer): A tool that mixes two optical mocaps to one signal through VMC protocol.
+
+# Forked Repositories
+
+* [Peachtart](https://github.com/jyhyun1008/peachtart): Forked from `Misskey`.
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=15)
