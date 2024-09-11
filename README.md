@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=300&section=header&text=Hyun%20Jaeyeon&fontSize=90)
+![header](https://for.stella.place/D1/3bc69f21-69c6-406c-9756-b38cd9ae5955.webp)
 
 # About Myself
 
@@ -41,4 +41,4 @@
 
 * [Peachtart](https://github.com/jyhyun1008/peachtart): Forked from `Misskey`.
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=15)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0)
