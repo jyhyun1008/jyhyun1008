@@ -7,23 +7,14 @@
 수정중입니다아
 
 ## 스킬
-
-![](https://img.shields.io/badge/:-python-blue?style=for-the-badge&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/:-FORTRAN-blue?style=for-the-badge&logo=fortran&logoColor=white)
-![](https://img.shields.io/badge/:-IDL-blue?style=for-the-badge&logo=instapaper&logoColor=white)
-![](https://img.shields.io/badge/:-LaTeX-blue?style=for-the-badge&logo=latex&logoColor=white)
-
 ![](https://img.shields.io/badge/:-HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/:-CSS-red?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/:-markdown-red?style=for-the-badge&logo=markdown&logoColor=white)
   
 ![](https://img.shields.io/badge/:-JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/:-Node.JS-green?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/:-php-green?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/:-sql-green?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![](https://img.shields.io/badge/:-OnShape-yellow?style=for-the-badge&logo=OnStar&logoColor=white)
-![](https://img.shields.io/badge/:-FeatureScript-yellow?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
 ![](https://img.shields.io/badge/:-Blender-yellow?style=for-the-badge&logo=blender&logoColor=white)
   
 ## 스탯 
